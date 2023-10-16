@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rakibull Hasan Ovi</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate frontend Flutter developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibullhasanovi&label=Profile%20views&color=0e75b6&style=flat" alt="rakibullhasanovi" /> </p>
 
-- 🔭 I’m currently working on **Wallet Application**
+- 🔭 I’m currently working on **Client Projects**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning about **Figma**
 
-- 📫 How to reach me **rakibulhassanovi123@gmail.com**
+- 📫 How to reach me **rakibulhassanovi123@gmail.com** either this is my WhatsApp number **01991896271**
 
 - ⚡ Fun fact **I am funny**
 
