@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rakibull Hasan Ovi</h1>
-<h1 aligh="center"> I'm Mobile Application Developer (Flutter)</h1>
 <h3 align="center">A passionate frontend Flutter developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
